@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 4</title>
+</head>
+<body>
+<script>
+    let a = prompt("Nhập số nguyên a:");
+    let b = prompt("Nhập số nguyên b:");
+    let c = prompt("Nhập số nguyên c:");
+    let max = 0;
+    if (a < b || a < c) {
+        if (b < c){
+            max = c;
+        }else if (b > c) {
+            max = b;
+        }
+    }else {
+        max = a;
+    }
+    alert(max);
+</script>
+</body>
+</html>
