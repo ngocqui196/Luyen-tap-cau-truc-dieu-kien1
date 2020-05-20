@@ -2,9 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Bài 5</title>
 </head>
 <body>
-$END$
+<script>
+    let a = parseInt(prompt("Điểm bài iểm tra:"));
+    let b = parseInt(prompt("Điểm thi giữa kỳ:"));
+    let c= parseInt(prompt("Điểm thi cuối kỳ:"));
+    let sum = (a + b + c) / 3;
+    if (sum <= 3) {
+        alert("Điểm trung bình " + sum + " xếp loại kém!")
+    } else if (sum <= 5) {
+        alert("Điểm trung bình " + sum + " xếp loại yếu!")
+    }else if (sum <= 7) {
+        alert("Điểm trung bình " + sum + " xếp loại trung bình!")
+    }else if (sum <= 9) {
+        alert("Điểm trung bình " + sum + " xếp loại khá!")
+    }else {
+        alert("Điểm trung bình " + sum + " xếp loại giỏi!")
+    }
+
+</script>
 </body>
 </html>

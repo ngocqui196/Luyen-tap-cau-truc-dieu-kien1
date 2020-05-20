@@ -2,9 +2,31 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>Bài 7</title>
 </head>
 <body>
-$END$
+<script>
+    let a = parseInt(prompt("thời gian gọi (giây):"));
+    let j = 12,q = 0,k = 0;
+    let x = 0,y = 0,z = 0;
+
+    if (a <= 12) {
+        x = a * 20;
+        alert("Số tiền cước điện thoại là:" + x +
+            "đồng")
+    }else if (a <= 25) {
+        q = a - j;
+        y = q * 30 + j * 20;
+        alert("Số tiền cước điện thoại là:" + y +
+            "đồng")
+    }else {
+        q = 25 - j;
+        k = a - q - j;
+        z = k * 50 + q * 30 + j * 20;
+        alert("Số tiền cước điện thoại là:" + z +
+            "đồng")
+    }
+
+</script>
 </body>
 </html>

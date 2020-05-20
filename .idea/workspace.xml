@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed18fac-c36b-456f-9feb-166303ec292b" name="Default Changelist" comment="" />
+    <list default="true" id="4ed18fac-c36b-456f-9feb-166303ec292b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/bai7.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +19,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1c4jspubSATRxvKpgdr2DsFUSz3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -27,7 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Luyen-tap-vong-lap01" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +49,10 @@
       <option name="presentableId" value="Default" />
       <updated>1589794969348</updated>
       <workItem from="1589794971911" duration="1000" />
-      <workItem from="1589794981020" duration="2477000" />
+      <workItem from="1589794981020" duration="2769000" />
+      <workItem from="1589851090822" duration="7224000" />
+      <workItem from="1589863740255" duration="123000" />
+      <workItem from="1589880413811" duration="2850000" />
     </task>
     <servers />
   </component>
@@ -48,13 +60,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1589796221448">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1589863857606">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589796221448" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589796953431">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1589863857606" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1589851532564">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589796953431" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1589851532564" />
   </component>
 </project>
